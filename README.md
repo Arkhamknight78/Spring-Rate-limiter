@@ -1,4 +1,3 @@
-# Spring-Rate-limiter
 # Spring Rate Limiter
 
 A distributed **API Rate Limiter** built with **Spring Boot, Spring Cloud Gateway, Redis, and the Token Bucket algorithm**.
